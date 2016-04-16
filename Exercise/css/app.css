@@ -81,13 +81,13 @@ color:white;
     width:50%;
     background-color:white;
     float: right;
-
+overflow: hidden;
 }
 
 #four{
 
     width:100%;
-    height:30%;
+    height:20%;
     background-color: white;
     align-content: center;
 }
@@ -97,6 +97,7 @@ color:white;
     width:100%;
      height:25%;
     background-color: white;
+    text-align: left;
 }
 
 
