@@ -266,3 +266,13 @@ text-align: center;
     width:100%;
 
 }
+#mediarow1{
+    height:50%;
+    width:100%;
+    background-color: coral
+}
+#mediarow2{
+    height:50%;
+    width:100%;
+    background-color: aqua
+}
