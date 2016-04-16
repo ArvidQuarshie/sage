@@ -14,9 +14,10 @@
 }
 
 #bottom{
-    height:50%;
+    height:60%;
     background-color: black;
 color:grey;
+    overflow: hidden;
 }
 #full{
     background-color: yellow;
@@ -259,7 +260,7 @@ text-align: center;
     width:50%;
 }
 
-#bottom{
+#secondbottom{
     height:40%;
     background-color: black;
     width:50%;
