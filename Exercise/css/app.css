@@ -253,3 +253,15 @@ text-align: center;
     margin-top: 40%;
 
 }
+#top{
+   height: 60%;
+    background-color: white;
+    width:50%;
+}
+
+#bottom{
+    height:40%;
+    background-color: black;
+    width:50%;
+
+}
