@@ -1,24 +1,29 @@
 #facebook{
-    height:25%;
+    height:30%;
     width:50%;
-    background-color:black;
+    background-color:#5E575A;
+    text-align: center;
 }
 #google{
-     height:25%;
+     height:30%;
      width:50%;
     background-color:black;
+     text-align: center;
+
 }
-#pinterst{
-     height:25%;
-    width:100%;
-    background-color:black;
+#pinterest{
+     height:30%;
+    width:50%;
+    background-color:#5E575A;
+     text-align: center;
 
 
 }
 #twitter{
-     height:25%;
+     height:30%;
     width:50%;
     background-color:black;
+     text-align: center;
 }
 
 
